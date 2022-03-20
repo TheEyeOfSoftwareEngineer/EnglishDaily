@@ -55,5 +55,5 @@ interrogate: 调查
 discerning: adj. 有识别力的;有眼力的;有洞察力的
 costlier: 贵的
 parochial: 范围有限的;狭小的;狭隘的
-boon: 好处
+boon: 好处q
 ```
